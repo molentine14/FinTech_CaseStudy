@@ -2,4 +2,3 @@
 Class Three Activity
 
 ## Case study report
-
